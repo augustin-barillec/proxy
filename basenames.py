@@ -1,5 +1,5 @@
-def build_ngrok_basename(port):
-    return f'ngrok_{port}.out'
+def build_localtunnel_basename(port):
+    return f'localtunnel_{port}.out'
 
 
 def build_index_basename():

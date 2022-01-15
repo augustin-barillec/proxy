@@ -7,6 +7,5 @@
 /.gitignore
 /*.py
 /deploy_*.out
-/ngrok_*.out
+/localtunnel_*.out
 /package-lock.json
-/ngrok

@@ -6,6 +6,6 @@
 
 /index.js
 /deploy_*.out
-/ngrok_*.out
+/localtunnel_*.out
 /package-lock.json
-/ngrok
+/localtunnel
